@@ -5,11 +5,15 @@ body {
 }
 
 .background-image {
-    background-image: url('./img/donation13.jpg');
+    background-image: url('./img/hero.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     height: 100vh;
+
 }
+
+
+
 
 .overlay {
     width: 100%;
@@ -19,11 +23,7 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: center;
-
     align-items: center;
+    line-height: .5;
 
-}
-
-.color {
-    color: gold;
 }
