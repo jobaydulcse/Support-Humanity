@@ -9,6 +9,8 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
     height: 100vh;
+    background-color: #000;
+    opacity: 4;
 }
 
 
