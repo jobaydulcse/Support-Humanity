@@ -190,3 +190,11 @@ section {
     outline: none;
     background-color: #ececec;
 }
+
+.display {
+    background-color: #000;
+    text-align: center;
+    color: white;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+}
