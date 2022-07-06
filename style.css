@@ -64,6 +64,24 @@ section {
 
 
 
+.one-one {
+    display: flex;
+    flex-direction: row;
+    border: rgb(181, 223, 134);
+    background-color: rgb(181, 223, 134);
+    margin-left: 40px;
+    margin-right: 40px;
+    padding: 20px, 20px;
+
+
+}
+
+.box {
+    margin-left: 60px;
+    margin-right: 60px;
+    padding: 20px, 20px;
+
+}
 
 
 
