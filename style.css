@@ -13,9 +13,6 @@ body {
     opacity: 4;
 }
 
-
-
-
 .overlay {
     width: 100%;
     height: 100%;
@@ -25,8 +22,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    line-height: .5;
-
+    line-height: .2;
 }
 
 .link-button {
@@ -36,7 +32,6 @@ body {
     border-radius: 6px;
     font-weight: 400;
     color: white;
-
 }
 
 .tag {
@@ -44,7 +39,7 @@ body {
     height: 20px;
     padding: 12px 20px;
     box-sizing: border-box;
-    border: 2px solid #ccc;
+    border: 5px solid #ccc;
     border-radius: 4px;
     background-color: #f8f8f8;
     resize: none;
@@ -72,9 +67,6 @@ section {
     display: flex;
 }
 
-
-
-
 .one-one {
     display: flex;
     flex-direction: row;
@@ -83,15 +75,12 @@ section {
     margin-left: 40px;
     margin-right: 40px;
     padding: 20px, 20px;
-
-
 }
 
 .box {
     margin-left: 60px;
     margin-right: 60px;
     padding: 20px, 20px;
-
 }
 
 .page {
@@ -110,10 +99,8 @@ section {
 
 .taka {
     padding-right: 10px;
-
     border: .5px;
     background-color: rgb(141, 138, 138);
-
 }
 
 h1 {
@@ -132,7 +119,6 @@ section {
 .half-width {
     width: 50%;
     padding-left: 5%;
-
 }
 
 .half-width img {
@@ -152,7 +138,6 @@ section {
 .top-banner {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
-
 }
 
 .dream-big {
@@ -166,8 +151,6 @@ section {
     align-items: center;
     justify-content: center;
     height: 100vh;
-
-
 }
 
 .form-box {
@@ -175,8 +158,6 @@ section {
     border-radius: 5px;
     background-color: rgb(240, 192, 218);
     box-shadow: 5px 5px 10px #c7c4cc, -5px -5px 10px #fff;
-
-
 }
 
 .form-box input {
